@@ -90,9 +90,11 @@
   "active": "c1b4acdfe3a8974b",
   "lastOpenFiles": [
     "Resource/Parts List.md",
-    "Resource/M.2 Network Adapter.md",
-    "Resource/5V Step-Up Voltage Regulator.md",
+    "Resource/M.2 SSD Drive.md",
+    "Resource/Power Management Module.md",
     "Resource/PCIExpress Multiplexer.md",
+    "Resource/5V Step-Up Voltage Regulator.md",
+    "Resource/M.2 Network Adapter.md",
     "Readme.md"
   ]
 }
