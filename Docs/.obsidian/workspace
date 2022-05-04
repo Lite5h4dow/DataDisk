@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "787ea43dbffdb182",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b4acdfe3a8974b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resource/Parts List.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e53598185c807f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d8416ed2295944d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284b93e68b4b1b13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fd49e62977ba1a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abad7644f37de5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6c4f6cd18f36b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6330363335bfca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resource/Parts List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c1b4acdfe3a8974b",
+  "lastOpenFiles": [
+    "Resource/Parts List.md",
+    "Resource/M.2 Network Adapter.md",
+    "Resource/5V Step-Up Voltage Regulator.md",
+    "Resource/PCIExpress Multiplexer.md",
+    "Readme.md"
+  ]
+}
