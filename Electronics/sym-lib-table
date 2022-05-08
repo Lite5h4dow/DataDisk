@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2955CTS8-1_TRPBF")(type "KiCad")(uri "${KIPRJMOD}/LTC2955CTS8-1_TRPBF.kicad_sym")(options "")(descr ""))
+)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readme.md",
+            "file": "Resource/PCIExpress Multiplexer.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Resource/PCIExpress Multiplexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "c1b4acdfe3a8974b",
   "lastOpenFiles": [
-    "Readme.md",
-    "Resource/5V Step-Up Voltage Regulator.md",
-    "Resource/M.2 Network Adapter.md",
-    "Resource/M.2 SSD Drive.md",
     "Resource/PCIExpress Multiplexer.md",
+    "Resource/Power Management Module.md",
     "Resource/Parts List.md",
-    "Resource/Power Management Module.md"
+    "Resource/M.2 SSD Drive.md",
+    "Resource/M.2 Network Adapter.md",
+    "Readme.md",
+    "Resource/5V Step-Up Voltage Regulator.md"
   ]
 }
